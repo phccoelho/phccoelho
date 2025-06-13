@@ -6,7 +6,7 @@
 
 📧Este perfil é um portfólio dos meus projetos, estudos e contribuições, onde você pode ver minhas habilidades em ação e minha paixão por aprender e inovar. Fique à vontade para explorar e entrar em contato!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phccoelho&show_icons=true&theme=radical)
 
 
 ##
