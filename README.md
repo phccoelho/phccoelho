@@ -1,6 +1,6 @@
 ## Olá!, Sou o Pedro Henrique e Bem vindo(a) ao meu Github!👋
 
-💻Bem-vindo(a) ao meu espaço no GitHub🌟🌟! Por aqui, você vai encontrar um pouco da minha jornada no mundo da tecnologia. Sou um desenvolvedor apaixonado por transformar ideias em código.
+💻Bem-vindo(a) ao meu espaço no GitHub! Por aqui, você vai encontrar um pouco da minha jornada no mundo da tecnologia. Sou um desenvolvedor apaixonado por transformar ideias em código.
 
 🎓No frontend, adoro dar vida às interfaces, criando experiências de usuário fluidas e responsivas com tecnologias modernas. Já no backend, meu foco é construir a infraestrutura sólida e eficiente que alimenta essas experiências, garantindo que tudo funcione de forma segura e escalável.
 
