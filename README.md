@@ -27,7 +27,7 @@
 ##
 
 <a href="https://www.linkedin.com/in/pedro-coelho-646552273/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="linkedin-icon">
+    <img align="center" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="linkedin-icon">
 </a>
 
 
