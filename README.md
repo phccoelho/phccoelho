@@ -9,4 +9,6 @@
 
 ##
 
-![snake animation](https://github.com/<phccoelho/<phccoelho>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/phccoelho/phccoelho/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/phccoelho/phccoelho/output/github-contribution-grid-snake-dark.svg)
