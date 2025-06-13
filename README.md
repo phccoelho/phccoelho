@@ -4,9 +4,11 @@
 
 🎓No frontend, adoro dar vida às interfaces, criando experiências de usuário fluidas e responsivas com tecnologias modernas. Já no backend, meu foco é construir a infraestrutura sólida e eficiente que alimenta essas experiências, garantindo que tudo funcione de forma segura e escalável.
 
-📧Este perfil é um portfólio dos meus projetos, estudos e contribuições, onde você pode ver minhas habilidades em ação e minha paixão por aprender e inovar. Fique à vontade para explorar e entrar em contato!
+✨Este perfil é um portfólio dos meus projetos, estudos e contribuições, onde você pode ver minhas habilidades em ação e minha paixão por aprender e inovar. Fique à vontade para explorar e entrar em contato!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phccoelho&show_icons=true&theme=radical)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phccoelho)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
