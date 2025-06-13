@@ -12,6 +12,8 @@
 
 
 ##
+
+
 <div style="display: inline_block"><br>
   <img align="center" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -25,6 +27,7 @@
 </div>
 
 ##
+✨Conecte-se comigo no LinkedIn!✨
 
 <a href="https://www.linkedin.com/in/pedro-coelho-646552273/" target="_blank">
     <img align="center" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="linkedin-icon">
