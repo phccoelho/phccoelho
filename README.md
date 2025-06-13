@@ -25,7 +25,10 @@
 </div>
 
 ##
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/pedro-coelho-646552273/)
+
+<a href="https://www.linkedin.com/in/pedro-coelho-646552273/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="linkedin-icon">
+</a>
 
 
 
