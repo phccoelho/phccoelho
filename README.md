@@ -9,7 +9,7 @@
 🌄Quando não estou imerso em linhas de código, minhas paixões se voltam para o mundo dos jogos eletrônicos 🎮, que me inspiram na lógica e resolução de problemas. Além disso, dedico tempo a esportes ⚽, mantendo o corpo e a mente em equilíbrio. Estou sempre em busca de novos aprendizados e aberto a colaborações!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phccoelho&show=reviews&show_icons=true&them=tokyonight,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phccoelho&show=reviews&show_icons=true&theme=tokyonight,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
